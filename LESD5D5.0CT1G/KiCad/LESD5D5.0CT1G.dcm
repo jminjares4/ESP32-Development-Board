@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LESD5D5.0CT1G
+D Transient Voltage Suppressors for ESD Protection
+K
+F http://www.lrcls.com/data/pdf/LESD5D5.0CT1G.pdf
+$ENDCMP
+#
+#End Doc Library

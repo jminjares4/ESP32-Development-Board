@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SS8050-G"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-11-28-00:43:33)
+    (mountForm default
+        (footprintRef "SOT95P240X115-3N")
+        (spec "System")
+    )
+)

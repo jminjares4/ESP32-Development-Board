@@ -1,0 +1,9 @@
+Manufacturer=Comchip Technology
+PartNumber=SS8050-G
+PartCategory=Transistor BJT NPN
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2018-11-27 09:17:51
+Downloaded=2021-09-05 05:48:20
+3D=Y

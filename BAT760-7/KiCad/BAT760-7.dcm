@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT760-7
+D Diode Schottky 30V 1A 2Pin SOD323 Diodes Inc BAT760-7, SMT Schottky Diode, 30V 1A, 2-Pin SOD-323
+K
+F https://www.diodes.com/assets/Datasheets/ds30498.pdf
+$ENDCMP
+#
+#End Doc Library

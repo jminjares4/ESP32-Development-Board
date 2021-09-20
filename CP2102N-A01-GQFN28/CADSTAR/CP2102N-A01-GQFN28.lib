@@ -1,0 +1,18 @@
+.CP2102N-A01-GQFN28 :1 ;SILICON LABS - CP2102N-A01-GQFN28 - USB-UART INTERFACE BRIDGE, QFN-28
+QFN50P500X500X80-29N-D
+*STM IC
+*NGS
+*PLB 1="DCD" 2="RI/CLK" 3="GND" 4="D+" 5="D-" 6="VDD" 7="VREGIN" 8="VBUS" 9="RSTB" 10="NC" 11="SUSPENDB" 12="SUSPEND" 13="CHREN" 14="CHR1" 15="CHR0" 16="GPIO.3 / WAKEUP" 17="GPIO.2 / RS485" 18="GPIO.1 / RXT" 19="GPIO.0 / TXT" 20="GPIO.6" 21="GPIO.5" 22="GPIO.4" 23="CTS" 24="RTS" 25="RXD" 26="TXD" 27="DSR" 28="DTR" 29="THERMAL PAD"
+*MXP 29
+*DFN CP2102N-A01-GQFN28
+~!Manufacturer_Name (Silicon Labs)
+~!Manufacturer_Part_Number (CP2102N-A01-GQFN28)
+~!Mouser Part Number (634-CP2102NA01GQFN28)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Silicon-Labs/CP2102N-A01-GQFN28/?qs=%252BaFUgn%2FzHmxGRIXZFn%252Btdg%3D%3D)
+~!Arrow Part Number (CP2102N-A01-GQFN28)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/cp2102n-a01-gqfn28/silicon-labs)
+~!Link Datasheet (http://www.farnell.com/datasheets/2245279.pdf)
+~!Height (0.8mm)
+~!3D_Model (CP2102N-A01-GQFN28)
+CP2102N-A01-GQFN28
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 24.1!U 23.1!U 22.1!U 

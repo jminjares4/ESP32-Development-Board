@@ -1,0 +1,18 @@
+.LESD5D5.0CT1G :1 ;Transient Voltage Suppressors for ESD Protection
+LESD5D50CT1G
+*STM D
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN LESD5D5.0CT1G
+~!Manufacturer_Name (LRC)
+~!Manufacturer_Part_Number (LESD5D5.0CT1G)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.lrcls.com/data/pdf/LESD5D5.0CT1G.pdf)
+~!Height (0.7mm)
+~!3D_Model (LESD5D5.0CT1G)
+LESD5D5.0CT1G
+1.1!U 2.1!U 

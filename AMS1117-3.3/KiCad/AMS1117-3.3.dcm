@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMS1117-3.3
+D 1A LOW DROPOUT VOLTAGE REGULATOR, SOT-223
+K
+F http://www.advanced-monolithic.com/pdf/ds1117.pdf
+$ENDCMP
+#
+#End Doc Library

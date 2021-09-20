@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS8050_G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "TKNEE", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "RCA", "RJC", "VCE", "VCB", "VEB", "IC", "IB", "HFE";
+{========================================================================================}
+ "Comchip Technology", "SS8050-G" (!) = "", "SOT95P240X115-3N", "SOT23 (3-Pin)", "750-SS8050-G", "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/SS8050-G?qs=LLUE9lz1YbcHg%252BWLMAtcrQ%3D%3D", "SS8050-G", "https://www.arrow.com/en/products/ss8050-g/comchip-technology?region=nac", "Bipolar Transistors - BJT NPN TRANSISTOR 1.5A 40V", "http://www.comchiptech.com/admin/files/product/SS8050-G%20RevA181526.pdf", "1.15 mm", "150", "25", "", "300m", "0.0024", "GENERAL PURPOSE NPN SMD", "SOT-23", "417", "", "", "25", "40", "5", "1.5", "", "275"
+END_PART
+
+END.

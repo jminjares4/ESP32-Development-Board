@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AMS1117_3.3'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Advanced Monolithic Systems", "AMS1117-3.3" (!) = "", "SOT229P700X180-4N", "SOT223 (3-Pin)", "", "", "", "", "1A LOW DROPOUT VOLTAGE REGULATOR, SOT-223", "http://www.advanced-monolithic.com/pdf/ds1117.pdf", "1.8 mm"
+END_PART
+
+END.

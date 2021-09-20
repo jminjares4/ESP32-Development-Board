@@ -1,0 +1,18 @@
+.SS8050-G :1 ;Bipolar Transistors - BJT NPN TRANSISTOR 1.5A 40V
+SOT95P240X115-3N
+*STM Q
+*NGS
+*PLB 1="B" 2="E" 3="C"
+*MXP 3
+*DFN SS8050-G
+~!Manufacturer_Name (Comchip Technology)
+~!Manufacturer_Part_Number (SS8050-G)
+~!Mouser Part Number (750-SS8050-G)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Comchip-Technology/SS8050-G?qs=LLUE9lz1YbcHg%252BWLMAtcrQ%3D%3D)
+~!Arrow Part Number (SS8050-G)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ss8050-g/comchip-technology?region=nac)
+~!Link Datasheet (http://www.comchiptech.com/admin/files/product/SS8050-G%20RevA181526.pdf)
+~!Height (1.15mm)
+~!3D_Model (SS8050-G)
+SS8050-G
+1.1!U 2.1!U 3.1!U 

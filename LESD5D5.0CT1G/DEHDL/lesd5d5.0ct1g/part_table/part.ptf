@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LESD5D5.0CT1G'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LRC", "LESD5D5.0CT1G" (!) = "", "LESD5D50CT1G", "Other", "", "", "", "", "Transient Voltage Suppressors for ESD Protection", "http://www.lrcls.com/data/pdf/LESD5D5.0CT1G.pdf", "0.7 mm"
+END_PART
+
+END.

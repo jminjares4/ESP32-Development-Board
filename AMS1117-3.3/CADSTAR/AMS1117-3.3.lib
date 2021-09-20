@@ -1,0 +1,18 @@
+.AMS1117-3.3 :1 ;1A LOW DROPOUT VOLTAGE REGULATOR, SOT-223
+SOT229P700X180-4N
+*STM IC
+*NGS
+*PLB 1="GND" 2="VOUT_1" 3="VIN" 4="VOUT_2"
+*MXP 4
+*DFN AMS1117-3.3
+~!Manufacturer_Name (Advanced Monolithic Systems)
+~!Manufacturer_Part_Number (AMS1117-3.3)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://www.advanced-monolithic.com/pdf/ds1117.pdf)
+~!Height (1.8mm)
+~!3D_Model (AMS1117-3.3)
+AMS1117-3.3
+1.1!U 2.1!U 3.1!U 4.1!U 

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LESD5D50CT1G"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LESD5D50CT1G")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Silicon Labs
+PartNumber=CP2102N-A01-GQFN28
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=29
+Version=3.1
+Released=2017-11-08 11:27:36
+Downloaded=2021-09-05 06:04:07
+3D=Y

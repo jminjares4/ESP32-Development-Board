@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AMS1117-3_3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-09-11-03:01:58)
+    (mountForm default
+        (footprintRef "SOT229P700X180-4N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_540718"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-27-09:17:51)
+    (utime 2018-11-28-06:30:06)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "SS8050-G")
+)
+
+
+(pinAssign "ECS_540718"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-27-09:17:51)
+    (utime 2018-11-28-06:30:06)
+    (interface
+        (port "1" (symbPinId 1) (portName "B") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "E") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "C") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_540718")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SS8050-G")
+)
+
+
+(part "SS8050-G"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2018-11-27-09:17:51)
+    (utime 2018-11-28-06:30:06)
+    (packageRef "SS8050-G")
+    (pinAssignRef "ECS_540718")
+    (interface
+        (port "1" (symbPinId 1) (portName "B") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "E") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "C") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Q")
+    (property "description" "Bipolar Transistors - BJT NPN TRANSISTOR 1.5A 40V")
+    (property "Manufacturer_Name" "Comchip Technology")
+    (property "Manufacturer_Part_Number" "SS8050-G")
+    (property "Mouser_Part_Number" "750-SS8050-G")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Comchip-Technology/SS8050-G?qs=LLUE9lz1YbcHg%252BWLMAtcrQ%3D%3D")
+    (property "Arrow_Part_Number" "SS8050-G")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/ss8050-g/comchip-technology?region=nac")
+    (property "Datasheet_Link" "http://www.comchiptech.com/admin/files/product/SS8050-G%20RevA181526.pdf")
+    (property "compAreaTopHeight" 1.15)
+)
+
+

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CP2102N_A01_GQFN28'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT", "TJ", "MTBF", "POWER", "SLOPE", "SUBTYPE", "PACKAGE", "RJA", "IOUT_MAX", "IOUT_MIN", "IGND", "RCA", "RJC", "TECHNOLOGY", "VDD_MAX", "VDD_MIN", "IDD", "IDDQ";
+{========================================================================================}
+ "Silicon Labs", "CP2102N-A01-GQFN28" (!) = "", "QFN50P500X500X80-29N-D", "Quad Flat No-Lead", "634-CP2102NA01GQFN28", "https://www.mouser.co.uk/ProductDetail/Silicon-Labs/CP2102N-A01-GQFN28/?qs=%252BaFUgn%2FzHmxGRIXZFn%252Btdg%3D%3D", "CP2102N-A01-GQFN28", "https://www.arrow.com/en/products/cp2102n-a01-gqfn28/silicon-labs", "SILICON LABS - CP2102N-A01-GQFN28 - USB-UART INTERFACE BRIDGE, QFN-28", "http://www.farnell.com/datasheets/2245279.pdf", "0.8 mm", "105", "", "", "", "USB TO UART BRIDGE INTERFACE SMD", "QFN28", "26", "", "", "400m", "", "18.8", "", "", "", "400m", ""
+END_PART
+
+END.
