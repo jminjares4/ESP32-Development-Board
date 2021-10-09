@@ -1,5 +1,4 @@
 # ESP32-Development-Board
-<<<<<<< HEAD
 ## TODO
 * Fixing the current design from 4 layer to 2 layer to match
 espressif design.
@@ -16,4 +15,3 @@ espressif design.
 ## ESP32 Back-view
 
 ![ESP32_Board Back View](https://user-images.githubusercontent.com/60948298/133951211-f8f25d71-cbbc-472d-a7d3-fb59fb54fa8c.png)
->>>>>>> 836fb06bd395853b9b2bd9f1f8e5b15f51822a1e
