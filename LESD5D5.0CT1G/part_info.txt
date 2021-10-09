@@ -1,9 +1,0 @@
-Manufacturer=LRC
-PartNumber=LESD5D5.0CT1G
-PartCategory=TVS Diode (Bi-directional)
-PackageCategory=Other
-PinCount=2
-Version=1.1
-Released=2019-04-01 16:59:37
-Downloaded=2021-09-05 05:10:01
-3D=Y

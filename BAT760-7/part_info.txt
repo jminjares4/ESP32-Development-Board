@@ -1,9 +1,0 @@
-Manufacturer=Diodes Inc.
-PartNumber=BAT760-7
-PartCategory=Schottky Diode
-PackageCategory=Small Outline Diode
-PinCount=2
-Version=1.1
-Released=2018-03-01 15:26:45
-Downloaded=2021-09-05 05:17:54
-3D=Y

@@ -1,9 +1,0 @@
-Manufacturer=Advanced Monolithic Systems
-PartNumber=AMS1117-3.3
-PartCategory=Integrated Circuit
-PackageCategory=SOT223 (3-Pin)
-PinCount=4
-Version=1.1
-Released=2019-09-11 03:01:58
-Downloaded=2021-09-05 18:50:58
-3D=Y
