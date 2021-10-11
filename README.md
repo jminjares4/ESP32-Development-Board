@@ -6,10 +6,10 @@
 * This folder contains the BOM file for JLCPCB for the ESP32. 
 ## ESP32 CPL File
 * This folder contains the CPL file for ESP32
-### JLCPCB_File
-*** JLCPCB csv file configuration for ESP32 dev board
-### KiCad_Pos
-*** KiCad default position file for ESP32 dev board
+* ### JLCPCB_File
+* * * JLCPCB csv file configuration for ESP32 dev board
+* ### KiCad_Pos
+* * * KiCad default position file for ESP32 dev board
 
 ## KiCad ESP32 Schematic
 ### ESP32 Frontview
