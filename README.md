@@ -4,13 +4,13 @@
 espressif design.
 
 ## KiCad ESP32 Schematic
-
-<img width="1007" alt="ESP32_Development_Board_Jesus_Minjares" src="https://user-images.githubusercontent.com/60948298/133951203-ac8244fe-d48e-49af-a20a-3454c532307c.png">
+![ESP32_Boardv2 0 1](https://user-images.githubusercontent.com/60948298/136732717-d254118b-e8d7-4056-84dc-d41bc5108f5f.png)
+![ESP32_Boardv2 0 3](https://user-images.githubusercontent.com/60948298/136732721-b0ee432c-2109-425a-b737-47ca5f7aa780.png)
+![ESP32_Boardv2 0 4](https://user-images.githubusercontent.com/60948298/136732725-691a5665-125e-4313-8c9e-f1df474d52aa.png)
+![ESP32_Boardv2 0 5](https://user-images.githubusercontent.com/60948298/136732727-5deeea17-4b7a-420e-a2bd-628f041cf4f8.png)
+![ESP32_Boardv2 0](https://user-images.githubusercontent.com/60948298/136732730-b7ed421c-e587-4605-b155-3e802fa27417.png)
 
 ## ESP32 Front-view
 
-![ESP32_Board](https://user-images.githubusercontent.com/60948298/133951206-1a20c7c5-4ab8-4538-a691-4a23f06b4ece.png)
 
 ## ESP32 Back-view
-
-![ESP32_Board Back View](https://user-images.githubusercontent.com/60948298/133951211-f8f25d71-cbbc-472d-a7d3-fb59fb54fa8c.png)
