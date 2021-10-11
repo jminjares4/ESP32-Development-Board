@@ -1,7 +1,7 @@
 # ESP32-Development-Board
 ## ESP32 2 Layer PCB
 * The PCB was developed in KiCad. With the use of https://github.com/wokwi/kicad-jlcpcb-bom-plugin, 
-* I convert the KiCad CPL files to JLCPCB be using 'python3' kicad_pos_to_cpl.py
+* Use the 'python3' kicad_pos_to_cpl.py to convert KiCad CPL files to JLCPCB 
 ## BOM
 * This folder contains the BOM file for JLCPCB for the ESP32. 
 ## ESP32 CPL File
