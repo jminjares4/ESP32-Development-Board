@@ -659,7 +659,7 @@ U 1 1 61437E01
 P 10450 5000
 F 0 "C4" V 10600 4950 50  0000 L CNN
 F 1 "0.1uF/50V(10%)(NC)" V 10300 4500 50  0000 L CNN
-F 2 "Capacitor_SMD:C_0805_2012Metric" H 10488 4850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0402_1005Metric" H 10488 4850 50  0001 C CNN
 F 3 "~" H 10450 5000 50  0001 C CNN
 	1    10450 5000
 	0    -1   -1   0   
@@ -1284,17 +1284,6 @@ Wire Wire Line
 Wire Wire Line
 	8150 1200 7700 1200
 $Comp
-L RF_Module:ESP32-WROOM-32 U1
-U 1 1 6138D744
-P 8750 2400
-F 0 "U1" H 8750 3981 50  0000 C CNN
-F 1 "ESP32-WROOM-32" H 8650 2800 50  0000 C CNN
-F 2 "RF_Module:ESP32-WROOM-32" H 8750 900 50  0001 C CNN
-F 3 "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf" H 8450 2450 50  0001 C CNN
-	1    8750 2400
-	1    0    0    -1  
-$EndComp
-$Comp
 L Connector:Conn_01x19_Male J3
 U 1 1 6157ED7B
 P 8850 5300
@@ -1432,4 +1421,15 @@ Wire Wire Line
 	10250 2200 10250 2100
 Wire Wire Line
 	10250 1800 10250 1750
+$Comp
+L RF_Module:ESP32-WROOM-32D U1
+U 1 1 616527AC
+P 8750 2400
+F 0 "U1" H 8750 3981 50  0000 C CNN
+F 1 "ESP32-WROOM-32D" H 8750 3890 50  0000 C CNN
+F 2 "RF_Module:ESP32-WROOM-32" H 8750 900 50  0001 C CNN
+F 3 "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf" H 8450 2450 50  0001 C CNN
+	1    8750 2400
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
