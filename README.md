@@ -12,6 +12,7 @@
   * KiCad default position file for ESP32 dev board
 
 ## KiCad ESP32 Schematic
+<img width="890" alt="ESP32 Schematic Image" src="https://user-images.githubusercontent.com/60948298/138581608-489c4a5c-1147-4bb7-a64f-e3fe473176f8.png">
 
 ### ESP32 Frontview
 ![ESP32_Boardv2 0](https://user-images.githubusercontent.com/60948298/136732730-b7ed421c-e587-4605-b155-3e802fa27417.png)
